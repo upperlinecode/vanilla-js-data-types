@@ -11,7 +11,7 @@ Instructions for cloning this repository to Relp.it or another IDE:
       * Paste the GitHub URL and click on the button `Import from GitHub`.
 
 
-Note: If you are coding along with the video, we suggest you open the video a window on the left and your code in a window on the right. This method of coding along is called "split screen".
+Note: If you are coding along with the video, we suggest you open the video in a window on the left and your code in a window on the right. This method of coding along is called "split screen".
 
 #### Using this template, you will be able to practice the following:
 
@@ -23,4 +23,4 @@ Note: If you are coding along with the video, we suggest you open the video a wi
 
 #### Get Started:
 
-- Click on the file named "script.js" to get started.
+- Click on the file named `script.js` to get started.
