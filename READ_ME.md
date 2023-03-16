@@ -1,4 +1,4 @@
-# JavaScript Lesson 1.1 Template - Greeting Program
+# JavaScript Lesson 1.1 Code Along Template - Greeting Program
 
 ### Welcome! 
 
