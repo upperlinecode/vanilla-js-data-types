@@ -2,12 +2,12 @@
 
 ### Welcome! 
 
-Instructions for cloning this repository to Relp.it or another IDE:
+Instructions for cloning down this repository to an IDE(_coding platoform_):
   1. Above the list of files, click on the `Code` button.
   2. Copy the URL for the repository.
   3. If you are using Repl.it: 
       * Select the `+ Create Repl` button on the top left corner of the web page. 
-      * In the pop up window, select the `Import from GitHub` button
+      * In the pop up window, select the `Import from GitHub` button.
       * Paste the GitHub URL and click on the button `Import from GitHub`.
 
 
